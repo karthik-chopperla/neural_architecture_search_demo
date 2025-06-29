@@ -1,6 +1,3 @@
-# Placeholder for app.py
-# app.py
-
 import streamlit as st
 from ui.interface import run_app
 from utils.helpers import set_global_seed
